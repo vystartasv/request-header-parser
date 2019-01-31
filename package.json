@@ -1,0 +1,29 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vystartasv/request-header-parser.git"
+  },
+  "keywords": [
+    "microservice",
+    "request",
+    "header",
+    "parser"
+  ],
+  "author": "Vilius Vystartas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vystartasv/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/vystartasv/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
